@@ -1,11 +1,4 @@
 let data = [
-  // {
-  //   id: 'SingaFlower1',
-  //   url: 'https://i.imgur.com/aD9UTgj.jpg',
-  //   thumbnail: 'https://i.imgur.com/aD9UTgjm.jpg',
-  //   width: 768,
-  //   height: 1024
-  // },
   {
     id: 'SingaFlower2',
     url: 'https://i.imgur.com/OdiNNyy.jpg',
@@ -35,7 +28,7 @@ let data = [
     height: 3024
   },
   {
-    id: 'SingaFlower5',
+    id: 'SingaFlower6',
     url: 'https://i.imgur.com/Bj6vL8t.jpg',
     thumbnail: 'https://i.imgur.com/Bj6vL8tm.jpg',
     width: 4032,
